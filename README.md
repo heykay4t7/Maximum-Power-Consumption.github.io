@@ -1,5 +1,5 @@
 # Hakeem.github.io
-Hakeem Kareem Web
-git add .
-git commit -m "Initial commit"
-git push origin main
+
+Mapping of Customers with Maximum Power Consumption
+
+42km Radius of An Existing Power Plant Locatio.
