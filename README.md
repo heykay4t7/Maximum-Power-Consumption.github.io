@@ -2,4 +2,4 @@
 
 Mapping of Customers with Maximum Power Consumption
 
-42km Radius of An Existing Power Plant Locatio.
+42km Radius of An Existing Power Plant Location.
